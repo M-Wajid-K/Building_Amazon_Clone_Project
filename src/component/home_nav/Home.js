@@ -12,6 +12,7 @@ function Home() {
 
         <div className="home__row">
           <Product />
+          <Product />
         </div>
       </div>
     </div>

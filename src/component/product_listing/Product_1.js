@@ -5,6 +5,7 @@ import "../product_listing/product_1.css";
 function Product_1() {
   return (
     <div className="product">
+      
       <div className="product__info">
         <p>Intex Deluxe Wall Mount Surface Skimmer</p>
 
